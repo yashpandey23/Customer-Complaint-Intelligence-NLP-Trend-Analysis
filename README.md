@@ -16,6 +16,3 @@ NLTK (Natural Language Toolkit): to strip away noise and "stop words."
 
 📉 What’s Next? The analysis is done, and the numbers are in. Next, I’ll be visualizing this data using Matplotlib to show the trends visually.
 
-Stay tuned for the charts! 📊
-
-#DataScience #Python #NLP #DataAnalytics #SQL #CyberSecurity #Portfolio
